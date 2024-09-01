@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, ForeignKey
 
-engine = create_engine("mysql+pymysql://root:ww860512ww@127.0.0.1:3306/web_flask", echo=True)
+engine = create_engine("mysql+pymysql://root:wwwwwwww@127.0.0.1:3306/web_flask", echo=True)
 
 metadata = MetaData(engine)
 
